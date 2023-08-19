@@ -3,15 +3,15 @@
     "header": {
         "description": "Reduced particles (no spell particles). Effects hud smaller and more transparent",
         "name": "Subtle_Particles",
-        "uuid": "89127594-3f41-4b83-8c9d-9a8431451985",
-        "version": [0, 0, 2],
-        "min_engine_version": [ 1, 18, 0 ]
+        "uuid": "0c98d2d0-4faf-47c7-8fce-2f850921c2af",
+        "version": [0, 0, 3],
+        "min_engine_version": [ 1, 20, 10 ]
     },
     "modules": [
         {
             "description": "",
             "type": "resources",
-            "uuid": "6de6e833-51e9-4f5b-bbf4-4b945aa5472a",
+            "uuid": "a6140d39-5a1a-4f49-824d-a0c6446cb750",
             "version": [0, 0, 1]
         }
     ]
