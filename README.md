@@ -1,0 +1,9 @@
+- Last tested on 1.20.15
+- Reduced particles (no spell particles)
+   - block_destruct 20% less
+   - bubble_column 50% less
+   - campfire_smoke 97.5% less
+   - mobspell (off)
+   - portal 50% less
+   - rain_splash 50% less
+- Effects HUD smaller and more transparent
